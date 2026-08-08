@@ -24,3 +24,6 @@ This is an independent portfolio case study built using public retail/grocery da
 * **Outlet Tier Impact:** Tier 3 locations drive the highest total sales volume, followed sequentially by Tier 2 and Tier 1 markets.
 * **Size Optimization:** Medium-sized outlets dramatically outperform large/high-capacity or small configurations in revenue generation.
 * **Product Demand:** Fruits, Vegetables, and Snack Foods represent the primary volume drivers, whereas Household items maintain the highest average sales price per order.
+
+## 📁 Project Repository Files
+* 📥 **[Download Power BI Project File (.pbip)](BLINKIT%20POWER%20BI.pbip)**
