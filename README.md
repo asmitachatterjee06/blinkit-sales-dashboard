@@ -1,10 +1,13 @@
 # Blinkit Sales Performance Analysis (End-to-End Power BI Project)
 
 ## 📊 Dashboard Preview
-![Dashboard Main Page](dashboard_overview.png)
+![Dashboard Main Page](blinkit-sales.png)
 
 ## 🎯 Project Overview
 This project delivers a comprehensive, data-driven analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution across various outlet tiers and sizes. The final dynamic dashboard enables stakeholders to deep-dive into critical operational metrics and identify strategic growth opportunities.
+
+## 📂 Dataset Source & Nature
+This is an independent portfolio case study built using public retail/grocery datasets to demonstrate end-to-end business intelligence development, data modeling, and advanced DAX principles.
 
 ## 💼 Business Requirements & KPIs Developed
 * **Total Sales:** Tracked overall revenue across all grocery items ($1.20M).
