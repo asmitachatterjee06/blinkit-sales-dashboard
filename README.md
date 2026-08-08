@@ -26,4 +26,4 @@ This is an independent portfolio case study built using public retail/grocery da
 * **Product Demand:** Fruits, Vegetables, and Snack Foods represent the primary volume drivers, whereas Household items maintain the highest average sales price per order.
 
 ## 📁 Project Repository Files
-* 📥 **[Download Power BI Project File (.pbip)](BLINKIT%20POWER%20BI.pbix)**
+* 📥 **[Download Power BI Project File (.pbix)](BLINKIT%20POWER%20BI.pbix)**
